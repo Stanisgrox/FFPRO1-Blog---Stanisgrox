@@ -215,6 +215,7 @@
 .focus:last-of-type .post_text_short{
     font-size: 16px;
     line-height: 19px;
+    margin-bottom: 31px;
 }
 
 .focus:last-of-type .post_image{
