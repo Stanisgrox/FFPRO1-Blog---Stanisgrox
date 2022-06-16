@@ -228,6 +228,12 @@
     font-size: 16px;
 }
 
+.wrapper_posts:last-of-type{
+    padding-top: 0px;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .footer{
     border-top: 1px solid #E8E8E8;
 }
