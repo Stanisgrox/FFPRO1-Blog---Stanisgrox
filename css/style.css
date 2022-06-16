@@ -253,6 +253,11 @@
     margin-bottom: 43px;
 }
 
+.post_load_ico{
+    vertical-align: -4px;
+    margin-left: 9px;
+}
+
 .footer{
     border-top: 1px solid #E8E8E8;
 }
