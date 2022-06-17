@@ -258,6 +258,27 @@
     margin-left: 9px;
 }
 
+.details_post_image{
+    width: 84.5%;
+    height: 380px;
+    margin-left: 8%;
+    object-fit: cover;
+}
+
+.details_caption{
+    font-size: 45px;
+    line-height: 54.5px;
+    font-weight: 700;
+    color: #2D3748;
+    margin-top: 42px;
+    margin-bottom: 20px;
+}
+
+.details_wrapper{
+    padding-left: 16.8%;
+    background-color: #6B46C1;
+}
+
 .footer{
     border-top: 1px solid #E8E8E8;
 }
