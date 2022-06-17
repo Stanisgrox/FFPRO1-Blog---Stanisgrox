@@ -303,9 +303,37 @@
     margin-bottom: 25px;
 }
 
+.details_divider{
+    border-top: 1px solid #E8E7E7;
+    margin-bottom: 38px;
+    display: block;
+}
+
+.details_text_h3cap{
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 25px;
+}
+
+.details_text_h2cap{
+    font-size: 30px;
+    line-height: 37px;
+    font-weight: 700;
+    color: #2D3748;
+    margin-bottom: 35px;
+}
 
 .details_text:last-of-type{
     margin-bottom: 58px;
+}
+
+.button_scroll{
+    position: fixed;
+    width: 42px;
+    height: 42px;
+    bottom: 10%;
+    right: 25%; 
+    padding: 20px;
 }
 
 .footer{
