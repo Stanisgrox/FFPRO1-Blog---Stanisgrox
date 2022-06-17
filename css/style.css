@@ -276,7 +276,24 @@
 
 .details_wrapper{
     padding-left: 16.8%;
-    background-color: #6B46C1;
+    padding-right: 16.8%;;
+}
+
+.details_info{
+    font-size: 18px;
+    line-height: 21px;
+    margin-bottom: 31px;
+}
+
+.details_info_author{
+    color: #2D3748;
+    font-weight: 700;
+}
+
+.details_info_date{
+    color: #718096;
+    font-weight: 400;
+    padding-left: 2%;
 }
 
 .footer{
